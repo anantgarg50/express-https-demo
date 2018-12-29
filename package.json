@@ -1,0 +1,26 @@
+{
+  "name": "express-https-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "export NODE_ENV=development && nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anantgarg50/express-https-test.git"
+  },
+  "author": "Anant Garg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anantgarg50/express-https-test/issues"
+  },
+  "homepage": "https://github.com/anantgarg50/express-https-test#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "dotenv": "^6.2.0",
+    "nodemon": "^1.18.9"
+  }
+}
