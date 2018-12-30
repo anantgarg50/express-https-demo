@@ -38,7 +38,7 @@ yarn install
 npm install
 ```
 
-### Generating the sel-signed SSL certificate and key :-
+### Generating the self-signed SSL certificate and key :-
 
 Refer [this](https://flaviocopes.com/express-https-self-signed-certificate/) guide.
 
