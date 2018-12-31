@@ -16,17 +16,17 @@ Bare minimum setup of HTTPs for Express and auto-redirects from HTTP to HTTPs
 ### Getting the Code :-
 Clone this repository using :
 ```
-$ git clone https://github.com/anantgarg50/relish.git
+$ git clone https://github.com/anantgarg50/express-https-demo.git
 
     or
 
-$ git clone git@github.com:anantgarg50/relish.git
+$ git clone git@github.com:anantgarg50/express-https-demo.git
 ```  
 
 ### Installing dependencies :-
-Change working directory to `relish`, using :  
+Change working directory to `express-https-demo`, using :  
 ```
-cd relish
+cd express-https-demo
 ```
 
 Install dependencies :  
