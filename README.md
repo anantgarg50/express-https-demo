@@ -44,7 +44,7 @@ Refer [this](https://flaviocopes.com/express-https-self-signed-certificate/) gui
 
 ### Start Development Server :-
 
-`yarn start`  
+`yarn dev`  
 
 **Note :-** Ports number from 0 - 1024 are privileged for many system services, thus requires elevated (root/admin) privileges.
 
